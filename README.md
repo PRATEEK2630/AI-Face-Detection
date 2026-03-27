@@ -19,6 +19,3 @@ This project is a simple real-time face detection system built using **Python** 
 - OpenCV (cv2)  
 - Haar Cascade Classifier  
 
----
-
-## 📂 Project Structure
